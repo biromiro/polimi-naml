@@ -1,0 +1,6 @@
+[submodule "Linear-Algebra-and-Learning-from-Data"]
+	path = Linear-Algebra-and-Learning-from-Data
+	url = https://github.com/niuers/Linear-Algebra-and-Learning-from-Data
+[submodule "learning-from-data-sols"]
+	path = learning-from-data-sols
+	url = https://github.com/niuers/Linear-Algebra-and-Learning-from-Data
