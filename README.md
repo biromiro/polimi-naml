@@ -19,7 +19,7 @@ The repository is organized into folders for each lab session (`lab-xx`). Inside
   - [learning-from-data-book.pdf](learning-from-data-book.pdf)
 
 - **Learning from Data Exercises Solutions**: Additionally, there's a submodule linked to a repository containing solutions to exercises from the "Learning from Data" book.
-  - Repository Link: [Learning from Data Solutions](https://github.com/biromiro/learning-from-data-sols)
+  - Repository Link: [Learning from Data Solutions]([https://github.com/biromiro/learning-from-data-sols](https://github.com/niuers/Linear-Algebra-and-Learning-from-Data/tree/4a9f152e15688f9984f67672481206ada5f3f3a5))
 
 ## Getting Started
 
