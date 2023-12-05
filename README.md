@@ -27,7 +27,7 @@ To explore the labs or resources:
 
 1. Clone this repository to your local machine using:
     ```bash
-    git clone https://github.com/biromiro/YourRepositoryName.git
+    git clone https://github.com/biromiro/polimi-naml.git
     ```
 
 2. Navigate to the specific lab folder or resource you want to explore.
