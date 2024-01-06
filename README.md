@@ -11,7 +11,11 @@ The repository is organized into folders for each lab session (`lab-xx`). Inside
 
 ### Lab Structure
 
-- `lab-01`, `lab-02`, ..., `lab-08`: Folders containing my solutions and code for each respective lab session.
+- `lab-01`, `lab-02`, ..., `lab-10`: Folders containing my solutions and code for each respective lab session.
+
+## Exams
+
+The repository also contains my solutions for the provided exams. They are inside the (`exams`) folder, with the exam itself accompanied with the jupyter notebook solutions and/or images when adequate.
 
 ## Additional Resources
 
