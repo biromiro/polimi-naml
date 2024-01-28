@@ -19,6 +19,9 @@ The repository also contains my solutions for the provided exams. They are insid
 
 ## Additional Resources
 
+- **Lecture Notes**: The notes I took during lectures.
+  - [lecture-notes.pdf](lecture-notes.pdf)
+
 - **Learning from Data Book**: The PDF for the "Learning from Data" book is available in this repository.
   - [learning-from-data-book.pdf](learning-from-data-book.pdf)
 
